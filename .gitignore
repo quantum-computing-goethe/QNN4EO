@@ -3,3 +3,4 @@ EuroSAT
 __pycache__
 .ipynb_checkpoints
 trained_models\.ipynb_checkpoints
+datasets
