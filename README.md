@@ -75,6 +75,10 @@ Then you can create a virtual environment:
 
 To run experiments on real Quantum Computers you have to create an [IBM Quantum Experience Account](https://quantum-computing.ibm.com/).
 
+### Usage of devcontainer
+
+Alternatively to the above installation steps you can use the [`.devcontainer`](.devcontainer) in VSCode.
+
 
 ## Authors:
 * Alessandro Sebastianelli (Univeristy of Sannio/ESA OSIP) [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ][linkedin_alessandro] [<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github_alessandro]
